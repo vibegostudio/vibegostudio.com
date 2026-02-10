@@ -1,0 +1,43 @@
+{
+  "site": {
+    "name": "VibeGo Studio",
+    "tagline": "Builder. Developer Dad. Dawn Coder.",
+    "description": "Personal portfolio of VibeGo Studio - A Melbourne-based developer building innovative solutions and sharing the journey of dawn coding.",
+    "url": "https://vibegostudio.com",
+    "author": "VibeGo Studio"
+  },
+  "hero": {
+    "title": "VibeGo Studio",
+    "subtitle": "Builder. Developer Dad. Dawn Coder.",
+    "badges": [
+      {
+        "icon": "Coffee",
+        "text": "Melbourne, AU"
+      },
+      {
+        "icon": "Clock", 
+        "text": "Dawn Coding"
+      },
+      {
+        "icon": "Baby",
+        "text": "Proud Dad"
+      }
+    ]
+  },
+  "about": {
+    "title": "The Dawn Coding Philosophy",
+    "paragraphs": [
+      "G'day! I'm a Melbourne-based developer with 3 years of experience crafting digital solutions. As a proud dad to a 6-month-old, I've mastered the art of dawn coding – those peaceful early hours when the world is quiet and creativity flows.",
+      "My journey in tech is driven by the \"Vibe\" philosophy – building with passion, solving real problems, and sharing knowledge with the community. Every project is an opportunity to make someone's life a little bit easier.",
+      "When I'm not coding, you'll find me exploring Melbourne's coffee scene, spending time with family, or planning the next big project that could change the game for developers and users alike."
+    ]
+  },
+  "contact": {
+    "github": "https://github.com/vibegostudio",
+    "threads": "https://www.threads.net/@vibegostudio",
+    "email": null
+  },
+  "footer": {
+    "text": "© 2026 VibeGo Studio. Built with Next.js, TailwindCSS, and lots of dawn coffee ☕"
+  }
+}

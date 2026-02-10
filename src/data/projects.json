@@ -1,0 +1,39 @@
+{
+  "featured": [
+    {
+      "id": "whresume",
+      "title": "WHRESUME",
+      "description": "Australian Working Holiday Resume Builder - 100% Free platform helping backpackers create professional resumes with 10+ job-specific templates.",
+      "url": "https://whresume.com",
+      "github": null,
+      "tags": ["Next.js", "TypeScript", "TailwindCSS", "Free Tool"],
+      "featured": true,
+      "status": "live",
+      "year": "2024"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "project-2",
+      "title": "Project Coming Soon",
+      "description": "An exciting new venture in the works. Stay tuned for something amazing that'll make your development workflow smoother.",
+      "url": null,
+      "github": null,
+      "tags": ["React", "Innovation", "Coming Soon"],
+      "featured": false,
+      "status": "coming-soon",
+      "year": "2026"
+    },
+    {
+      "id": "project-3",
+      "title": "Another Project Brewing",
+      "description": "Another cool project in development. The best ideas come during dawn coding sessions with a coffee in hand.",
+      "url": null,
+      "github": null,
+      "tags": ["Next.js", "Creative", "Coming Soon"],
+      "featured": false,
+      "status": "coming-soon",
+      "year": "2026"
+    }
+  ]
+}
